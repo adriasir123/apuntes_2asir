@@ -94,7 +94,7 @@ olcLogLevel 128 (son códigos numéricos y cada uno hace una cosa en específico
 /etc/ldap/slapd.d (se encuentra la información sobre el árbol de configuración de ldap)
 
 
-[](https://imgur.com/wX6mXH9)
+![](https://imgur.com/wX6mXH9)
 
 
 
@@ -115,5 +115,5 @@ olcLogLevel 128 (son códigos numéricos y cada uno hace una cosa en específico
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwNzAwMjY0LDEwMTI3NzE1NDNdfQ==
+eyJoaXN0b3J5IjpbLTEwODQ0NjEzOTMsMTAxMjc3MTU0M119
 -->
