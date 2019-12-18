@@ -33,13 +33,14 @@ Otra forma muy habitual de financiación consiste en sustituir la compra de un b
 
 ### 1.2 Préstamos
 #### Prestamos bancarios
-Es una cantidad de dinero que concede la entidad crediticia. Es la cantidad de dinero que una entidad crediticia concede a una pyme, a cambio de unos intereses, durante un período de tiempo determinado
+Es una cantidad de dinero que concede la entidad crediticia (porque no sólo las empresas pueden pedir préstamos).  
+También, es la cantidad de dinero que una entidad crediticia concede a una pyme, a cambio de unos intereses, durante un período de tiempo determinado
 
-* Préstamos personales: suelen concederse por hasta 10 años, y cantidades no muy altas. La cantidad ofrecida, es el patrimonio de la persona, que pide el préstamos, y si este es insuficiente, se exige que aporte avalistas.
-* Préstamos hipotecarios: se pueden conceder por 35 aos o más, y las cantidades prestadas suelen ser grandes. El fin de este préstamo, es la compra de un inmueble. En este caso, la garantía es el inmueble, de tal forma que si no se devuelve el préstamo, el banco vende el inmueble.
+* **Préstamos personales**: suelen concederse por hasta 10 años, y cantidades no muy altas. La cantidad ofrecida, es el patrimonio de la persona, que pide el préstamo, y si este es insuficiente, se exige que aporte avalistas.
+* **Préstamos hipotecarios**: se pueden conceder por 35 años o más, y las cantidades prestadas suelen ser grandes. El fin de este préstamo, es la compra de un inmueble. En este caso, la garantía es el inmueble, de tal forma que si no se devuelve el préstamo, el banco vende el inmueble.
 
 #### Sociedades de garantía recíproca (SGR)
-El mayor problema al que se enfrentan las pymes a la hora de pedir un préstamo, es el avalista. Para estos casos, se han creado las sociedades de garantía recíproca, que son entidades con participación pública, que tienen como función principal, servir de avalistas a las pymes.
+El mayor problema al que se enfrentan las pymes a la hora de pedir un préstamo, es el avalista. Para estos casos, se han creado las sociedades de garantía recíproca, que son entidades con participación pública, que tienen como **función principal, servir de avalistas a las pymes**.
 Existe al menos, 1 por cada comunidad autónoma. 
 
 Funcionan de la siguiente manera :
@@ -48,8 +49,13 @@ Funcionan de la siguiente manera :
 3. Si se considera viable, la SGR avalará el préstamo.
 
 #### Los empréstitos
-Es un tipo de financiación ajena a largo plazo, propia de las grandes empresas, que consiste en la emisión de pagarés, bonos, u obligaciones. Los pagarés son títulos de deuda emitidos a muy corto plazo, normalmente a menos de 1 año.  
-Los bonos tienen una duración de 3-5 años, y las obligaciones, vencen a más largo plazo. La empresa emisora vende los títulos al comprador (persona fisica, o jurídica), a cambio de un dinero, que tendrá que devolverle, al vencimiento, más un conjunto de intereses prefijados, por lo que este tipo de títulos suele denominarse, valores de renta fija. 
+Es un tipo de financiación ajena a largo plazo, propia de las grandes empresas.  
+Consiste en la emisión de:
+* **Pagarés**: son títulos de deuda emitidos a muy corto plazo, normalmente a menos de 1 año
+* **Bonos**: tienen una duración de 3-5 años
+* **Obligaciones**:  vencen a más largo plazo
+
+La empresa emisora vende los títulos al comprador (persona fisica, o jurídica) a cambio de un dinero, que tendrá que devolverle, al vencimiento, más un conjunto de intereses prefijados, por lo que este tipo de títulos suele denominarse valores de renta fija. 
 
 
 ### 1.3 Ayudas públicas y subvenciones
@@ -76,29 +82,38 @@ Muchas subvenciones están dedicadas preferentemente a mayores de 45 años, muje
 ## 2. La autofinanciación
 Cuando las empresas ya han iniciado su actividad y **obtienen beneficios**, pueden **dedicar parte de ellos a mantener y a ampliar su negocio**. Esto es lo que se conoce como autofinanciación, o financiación mediante recursos propios o internos.  
 
-Existen 2 tipos:
+Existen 2 tipos de autofinanciación (o dicho de otra manera, 2 formas diferentes de emplear los beneficios):
 
 > Los 2 tipos de autofinanciación están clasificados según en lo que se empleen los beneficios guardados (según si es para invertir, o para mantener lo que ya tenemos)
 
 ### Por enriquecimiento
-Está formada por la **cuenta de reservas**, que **recoge todos los beneficios**, que la empresa ha ido generando en cada ejercicio económico, y que no se ha distribuido entre los accionistas. Su principal objetivo es favorecer el crecimiento, es decir, la **realización de nuevas inversiones**, que generen mayor cantidad de beneficios en el futuro.  
+Está formada por la **cuenta de reservas**, que **recoge todos los beneficios**, que la empresa ha ido generando en cada ejercicio económico, y **que no se han distribuido entre los accionistas**. Su principal objetivo es favorecer el crecimiento, es decir, la **realización de nuevas inversiones**, que generen mayor cantidad de beneficios en el futuro.  
 
 Las reservas pueden ser de distintos tipos:
-* Reservas legales: las establecidas por la ley
-* Reservas estatutarias: aquellas que vienen fijadas por los propios estatutos de las empresas
-* Reservas voluntarias: las que se deciden por los propietarios o socios de la empresa
+* **Reservas legales**: las establecidas por la ley
+* **Reservas estatutarias**: aquellas que vienen fijadas por los propios estatutos de las empresas
+* **Reservas voluntarias**: las que se deciden por los propietarios o socios de la empresa
 
 ### Por mantenimiento
 En este caso, **la finalidad de los beneficios retenidos, es preservar el patrimonio empresarial**, y se lleva a cabo a partir de las **amortizaciones y provisiones**. 
+
 * Las amortizaciones son pérdidas de valor, de carácter irreversible, en los activos o bienes de la empresa, como consecuencias del desgaste por su uso, del paso del tiempo, o por nuevos avances técnicos, que disminuyen la eficacia y competitividad de estos bienes.
 
 > Con la amortización nos referimos al proceso de pérdida de valor de un producto, por el desgaste...etc.  
-Con una amortización no se va a perder nunca, hasta que 
+Aquí los beneficios se estarían empleando en que los bienes que tiene la empresa, durasen lo máximo posible.   
+En una web explican la amortización como: Amortizar significa ir registrando un gasto de manera periódica (mensual o anual normalmente) en nuestra contabilidad, acorde al tiempo que va pasando en el que poseemos o usamos el bien.  
+Claro, ya sabemos que los bienes van a tener una pérdida de valor, se usen o no. Así, lo que se necesita hacer es amortizarlos, es decir, durante su tiempo de vida, podemos pagar con esos beneficios dichos anteriormente, para invertir en el uso de los bienes, y que podamos sacar más beneficios de ellos posteriormente.  
+El ejemplo de antes es muy claro: para amortizar una máquina, tendríamos que pagar su gasto de luz, si usase combustible, pagarlo también, el mantenimiento de la máquina...etc. Estamos usando los beneficios para que esa máquina se pueda estar usando, y además, por su uso, nosotros también estamos haciendo que nuestro negocio siga en funcionamiento, y que generemos beneficios con esa máquina.
 
-* Las provisiones son los bienes o activos, que se van a guardar con un fin determinado
+* Las provisiones son los bienes o activos (o cantidades de dinero), que se van a guardar con un fin determinado
 
-> Con provisiones nos referimos literalmente a tener provisiones. Pero en el contexto económico, nos referimos a que el valor de esas provisiones puede subir con el tiempo, o bajar.  
-Luego, claramente se podrían vender, así que por eso nos referimos a tener provisiones como método de autofinanciación
+> Con provisiones nos referimos literalmente a tener provisiones. Y pueden ser tanto de bienes, como de dinero.  
+En una web definen las provisiones de la siguiente manera:  
+Son cantidades que la empresa guarda para cubrir gastos o perdidas que todavía no han ocurrido, pero que se presupone puedan ocurrir.  
+Claro, podemos guardar dinero, como bien se dice ahí, o bienes/activos. Y se guardan como hemos dicho, por si pasara algo. Estamos autofinanciándonos, invirtiendo nuestros beneficios, en literalmente guardarlos, por si acaso.  
+
+ > Otra cosa a tener en cuenta, aunque no viniese por internet ni viniese en el libro, es que también nos podemos referir a que el valor de esas provisiones puede subir con el tiempo, o bajar.  
+Y, claramente se podrían vender, y ganar más dinero del que nos gastamos. Por lo tanto, se podría llegar a considerar el tener provisiones como autofinanciación por este motivo, porque se podría llegar a generar dinero con provisiones.
 
 
 
@@ -138,17 +153,28 @@ El factoring puede ser de 2 tipos:
 * Con recurso: en este caso, el factor no asume el riesgo de insolvencia
 * Sin recurso: el factor asume el riesgo de insolvencia
 ### Alargar el plazo de pago a los proveedores y descuentos por pronto pago
-Alargar el plazo de pago implica pagar con posterioridad, a la recepción de los bienes recibidos, de parte de los proveedores. Puede ser un excelente método de financiación, para una empresa, en aquellos casos, en los que el dinero para pagar a los proveedores, procede fundamentalmente de la comercialización de los bienes que estos proveen a la empresa. Pero hay que tener en cuenta que en la mayoría de los casos, los proveedores ofrecen descuentos por pronto pago. Es decir, la posibilidad de pagar menos, si el pago se realiza, en los días inmediatos a la recepción del pedido. Cada empresa deberá valorar si le compensa más alargar el pago a los proveedores, o acogerse a las forma de descuento por pronto pago
+Alargar el plazo de pago implica pagar con posterioridad a la recepción de los bienes recibidos, de parte de los proveedores.  
+Puede ser un excelente método de financiación para una empresa, en aquellos casos en los que el dinero para pagar a los proveedores, procede fundamentalmente de la comercialización de los bienes que estos proveen a la empresa.  
+Pero hay que tener en cuenta que en la mayoría de los casos, los proveedores ofrecen descuentos por pronto pago. Es decir, la posibilidad de pagar menos, si el pago se realiza, en los días inmediatos a la recepción del pedido.  
+Cada empresa deberá valorar si:
+* Le compensa más alargar el pago a los proveedores
+* O acogerse a las forma de descuento por pronto pago
 
-## Definición: Efecto comercial
+
+
+# 4. Algunas definiciones
+
+## Efecto comercial
 Es un documento en el que se ha recogido un derecho, a que alguien cobre algo de un tercero. Por ejemplo, letras de cambio, cheques, pagaŕes…
-## Definición: letra de cambio
+
+## Letra de cambio
 Es un mandato de pago por el que una persona que emite el documento, que sería el librador, ordena a otra, que sería el librado, el pago de una cantidad de dinero, en una fecha determinada, a favor de un tercero, cuyo nombre a de figurar en la letra.
-## Definición: pagaré
+
+## Pagaré
 Es un documento parecido a un cheque, pero con la diferencia de que el cheque se cobra a su presentación, al margen de la fecha en que se haya emitido. Mientras que el pagaré, únicamente se puede cobrar en la fecha que figure escrita.
 
-## Definición de línea de descuento
+## Línea de descuento
 Es el importe máximo de letras que se pueden descontar en una entidad crediticia.
 
-## Definición de descuento bancario
+## Descuento bancario
 Es la anticipación por parte de la entidad de la empresa, del importe de un crédito.
